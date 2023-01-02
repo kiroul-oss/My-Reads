@@ -1,6 +1,6 @@
 # MyReads Project
 
-this is the graduation project of Udacity React js Program. 11/2022
+this is the graduation project of Udacity React js Program.
 the project is fully responsive with all screens.
 
 this project help you to track your reading and the book you want to read and books you already read.
